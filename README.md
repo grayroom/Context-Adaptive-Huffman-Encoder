@@ -1,4 +1,4 @@
-# Context-Adaptive-Huffman-Encoder-Decoder
+# Context-Adaptive-Huffman-Encoder
 
 ### 압축
 <img width="525" alt="스크린샷 2022-06-10 오전 12 51 47" src="https://user-images.githubusercontent.com/43588644/172890713-9f16c746-cecf-469f-97ac-9311b05173f7.png">
